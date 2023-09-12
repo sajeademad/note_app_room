@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="create_your_first_note">Create your first note !</string>
+    <string name="title">Title</string>
+    <string name="type_something">Type something ...</string>
+
+    <string name="are_you_sure_to_delete_note" />
+    <string name="confirm">confirm</string>
+    <string name="discard">discard</string>
+    <string name="save_changes">save_changes</string>
+    <string name="save">save</string>
+    <string name="search">Search</string>
+
+    <string name="Note" translatable="false">Note</string>
+
+
+</resources>
